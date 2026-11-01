@@ -12,6 +12,11 @@
 | Token conventions, foundation rules, anti-generic checklist, motion ladder, accessibility and performance floors, writing rules, QA checklist | Studio playbook | `foundations.md`, `interaction-and-a11y.md`, `writing.md`, `build-and-verify.md` |
 | Audit procedure, verification protocol, sandbox pitfalls, name-collision warning, handover commands | Added from working on a real repo audit | `build-and-verify.md`, `foundations.md` |
 | Writing preferences, no co-author credit | Owner preferences | `writing.md` |
+| Altitude, depth and range, outside judge, self-efficacy levers | "How to be more ambitious: A tutorial for humans with models", Felix Rieseberg, 13 October 2026. Rewritten with frontend examples, not copied | `ambition.md`, `SKILL.md` working agreement |
+| Build with shadcn, match the Figma styling | Owner instruction | `figma-and-shadcn.md` |
+| Animation review with Emil Kowalski's skill | Owner instruction. His skill is referenced, not copied. Names and install command from his site and public listings | `motion-review.md` |
+| Turn a finished workflow into a reusable skill | Owner instruction | `capture-workflow.md` |
+| `contrast.py`, `check_page.py` | Written to match what the skill already described. `contrast.py` tested against known ratios. `check_page.py` compiles but had no browser to run against when written | `scripts/` |
 
 Keep three kinds of statement apart when adding material: source-derived recommendations, owner preferences, and context-dependent judgment. Note which is which.
 
@@ -19,6 +24,8 @@ Keep three kinds of statement apart when adding material: source-derived recomme
 
 - Social media assets and carousels. Not needed for now. Add a section when they are.
 - SVG illustration specification (shape language, test sheet, SVGO budget). Add it when a project is illustration-led.
+- The speed kind of ambition from the Rieseberg article, and its business examples (the quarterly review deck, churn analysis). They do not map to interface work.
+- The text of Emil Kowalski's skills. Install his skill instead of copying it.
 
 ## Mobbin
 

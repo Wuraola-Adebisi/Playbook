@@ -123,7 +123,7 @@ Expand-Archive -Force path\to\changes.zip -DestinationPath .
 npm install
 npm run build
 git status
-git add -A
+git add <each changed path by name>
 git commit -m "Imperative summary of the change"
 git push -u origin design/short-name
 ```
